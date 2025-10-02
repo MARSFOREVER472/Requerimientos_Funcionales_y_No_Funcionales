@@ -1,0 +1,2 @@
+# Requerimientos_Funcionales_y_No_Funcionales
+Diferencia entre Requerimientos Funcionales y No Funcionales
