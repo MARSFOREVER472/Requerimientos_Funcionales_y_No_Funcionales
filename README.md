@@ -1,6 +1,6 @@
 # **_Requerimientos_Funcionales_y_No_Funcionales_**
 
-## **_Requisitos No Funcionales: ¿Por qué son importantes?_**
+## **_Requisitos No Funcionales: ¿Por qué son tan importantes?_**
 
 ### **_Antes de comenzar:_**
 
