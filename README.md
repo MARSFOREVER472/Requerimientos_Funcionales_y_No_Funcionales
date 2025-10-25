@@ -13,3 +13,5 @@
 **_Con la implementación de los requisitos no funcionales se han abordado estas limitaciones y se ha llevado a un enfoque más completo y equilibrado en su desarrollo. Ahora, se consideran estos aspectos desde las primeras etapas del proceso de desarrollo, lo que resulta en aplicaciones y sistemas más robustos, seguros y eficientes._**
 
 **_Los requisitos no funcionales han contribuido al crecimiento de las empresas al crear una base sólida en soluciones tecnológicas exitosas. Al cumplir con estos requisitos, tu empresa puede obtener una ventaja competitiva, mejorar la satisfacción del cliente y construir una base sólida para el crecimiento y el éxito a largo plazo._**
+
+## ¿Qué son los requisitos no funcionales?
