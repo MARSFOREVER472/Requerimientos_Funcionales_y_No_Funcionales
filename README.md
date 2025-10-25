@@ -14,4 +14,4 @@
 
 **_Los requisitos no funcionales han contribuido al crecimiento de las empresas al crear una base sólida en soluciones tecnológicas exitosas. Al cumplir con estos requisitos, tu empresa puede obtener una ventaja competitiva, mejorar la satisfacción del cliente y construir una base sólida para el crecimiento y el éxito a largo plazo._**
 
-## ¿Qué son los requisitos no funcionales?
+## **_¿Qué son los requisitos no funcionales?_**
