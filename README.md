@@ -20,4 +20,4 @@
 
 **_Utilizar requisitos no funcionales es una parte importante al momento de desarrollar un sistema, hará que tu software o aplicación sea eficaz, eficiente y cumpla con las expectativas y necesidades del usuario._**
 
-_No obstante, debes entender que estos trabajan de la mano con los requisitos funcionales. ¿A qué nos referimos con esto? Verás, los requisitos funcionales se enfocan en el qué, mientras que los requisitos no funcionales se enfocan en el cómo y en qué medida cumplen con ciertas cualidades. A continuación te lo explicamos detalladamente._
+**_No obstante, debes entender que estos trabajan de la mano con los requisitos funcionales. ¿A qué nos referimos con esto? Verás, los requisitos funcionales se enfocan en el qué, mientras que los requisitos no funcionales se enfocan en el cómo y en qué medida cumplen con ciertas cualidades. A continuación te lo explicamos detalladamente._**
