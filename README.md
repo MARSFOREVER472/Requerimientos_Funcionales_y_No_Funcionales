@@ -18,6 +18,6 @@
 
 **_Los requisitos no funcionales, también conocidos como "requisitos de calidad" o "requisitos de atributos del sistema", son características y criterios que describen cómo debe ser el rendimiento, la seguridad, la usabilidad y otros aspectos de un sistema o software más allá de su funcionalidad básica._**
 
-_Utilizar requisitos no funcionales es una parte importante al momento de desarrollar un sistema, hará que tu software o aplicación sea eficaz, eficiente y cumpla con las expectativas y necesidades del usuario._
+**_Utilizar requisitos no funcionales es una parte importante al momento de desarrollar un sistema, hará que tu software o aplicación sea eficaz, eficiente y cumpla con las expectativas y necesidades del usuario._**
 
 _No obstante, debes entender que estos trabajan de la mano con los requisitos funcionales. ¿A qué nos referimos con esto? Verás, los requisitos funcionales se enfocan en el qué, mientras que los requisitos no funcionales se enfocan en el cómo y en qué medida cumplen con ciertas cualidades. A continuación te lo explicamos detalladamente._
