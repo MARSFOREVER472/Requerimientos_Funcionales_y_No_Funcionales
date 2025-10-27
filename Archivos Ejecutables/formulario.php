@@ -56,7 +56,7 @@
     </form>
 
     <?php
-        include("registro.php");
+        include("backend.php");
     ?>
     
 </body>
