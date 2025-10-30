@@ -34,18 +34,18 @@
 
 Los requisitos no funcionales son las características y propiedades de un sistema que se relacionan con su desempeño, calidad y éxito. Es importante identificar y definir adecuadamente los requisitos no funcionales para garantizar el éxito y la calidad del sistema desarrollado.Te dejamos una lista de los más comunes:
 
-Rendimiento: establece las expectativas de velocidad y capacidad del sistema. Puede incluir aspectos como tiempos de respuesta, tiempos de carga, rendimiento bajo diferentes cargas de trabajo y escalabilidad.
+- Rendimiento: establece las expectativas de velocidad y capacidad del sistema. Puede incluir aspectos como tiempos de respuesta, tiempos de carga, rendimiento bajo diferentes cargas de trabajo y escalabilidad.
 
-Seguridad: define los mecanismos de seguridad necesarios para proteger el sistema y los datos contra amenazas y ataques. Puede incluir autenticación, autorización, encriptación y protección contra vulnerabilidades.
+- Seguridad: define los mecanismos de seguridad necesarios para proteger el sistema y los datos contra amenazas y ataques. Puede incluir autenticación, autorización, encriptación y protección contra vulnerabilidades.
 
-Usabilidad: describe cómo debe ser la experiencia del usuario al interactuar con el sistema. Puede incluir aspectos como la interfaz de usuario, la accesibilidad, la facilidad de uso y la satisfacción del usuario.
+- Usabilidad: describe cómo debe ser la experiencia del usuario al interactuar con el sistema. Puede incluir aspectos como la interfaz de usuario, la accesibilidad, la facilidad de uso y la satisfacción del usuario.
 
-Disponibilidad: establece cuánto tiempo el sistema debe estar disponible para los usuarios. Puede incluir objetivos de tiempo de actividad, tiempo de inactividad planificado y recuperación ante fallas.
+- Disponibilidad: establece cuánto tiempo el sistema debe estar disponible para los usuarios. Puede incluir objetivos de tiempo de actividad, tiempo de inactividad planificado y recuperación ante fallas.
 
-Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores.
+- Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores.
 
-Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad.
+- Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad.
 
-Portabilidad: define la capacidad del sistema para ser trasladado o adaptado a diferentes entornos y plataformas. Puede incluir la compatibilidad con diferentes sistemas operativos, navegadores o dispositivos.
+- Portabilidad: define la capacidad del sistema para ser trasladado o adaptado a diferentes entornos y plataformas. Puede incluir la compatibilidad con diferentes sistemas operativos, navegadores o dispositivos.
 
-Escalabilidad: describe cómo el sistema puede manejar un aumento en la carga de trabajo sin degradar su rendimiento. Puede incluir la escalabilidad vertical (mejorar los recursos de un solo equipo) o la escalabilidad horizontal (añadir más recursos o equipos para mantener el rendimiento).
+- Escalabilidad: describe cómo el sistema puede manejar un aumento en la carga de trabajo sin degradar su rendimiento. Puede incluir la escalabilidad vertical (mejorar los recursos de un solo equipo) o la escalabilidad horizontal (añadir más recursos o equipos para mantener el rendimiento).
