@@ -30,7 +30,7 @@
 
 <img width="748" height="821" alt="image" src="https://github.com/user-attachments/assets/c2869d28-31c6-45a7-987b-4666343709d8" />
 
-## Tipos de requisitos no funcionales
+## **_Tipos de requisitos no funcionales_**
 
 Los requisitos no funcionales son las características y propiedades de un sistema que se relacionan con su desempeño, calidad y éxito. Es importante identificar y definir adecuadamente los requisitos no funcionales para garantizar el éxito y la calidad del sistema desarrollado.Te dejamos una lista de los más comunes:
 
