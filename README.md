@@ -38,7 +38,7 @@
 
 - **_Rendimiento: establece las expectativas de velocidad y capacidad del sistema. Puede incluir aspectos como tiempos de respuesta, tiempos de carga, rendimiento bajo diferentes cargas de trabajo y escalabilidad._**
 
-- Seguridad: define los mecanismos de seguridad necesarios para proteger el sistema y los datos contra amenazas y ataques. Puede incluir autenticación, autorización, encriptación y protección contra vulnerabilidades.
+- **_Seguridad: define los mecanismos de seguridad necesarios para proteger el sistema y los datos contra amenazas y ataques. Puede incluir autenticación, autorización, encriptación y protección contra vulnerabilidades._**
 
 - Usabilidad: describe cómo debe ser la experiencia del usuario al interactuar con el sistema. Puede incluir aspectos como la interfaz de usuario, la accesibilidad, la facilidad de uso y la satisfacción del usuario.
 
