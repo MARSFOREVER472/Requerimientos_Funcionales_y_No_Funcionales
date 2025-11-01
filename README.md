@@ -26,7 +26,7 @@
 
 **_En la ingeniería de software, tanto los requisitos funcionales como los no funcionales juegan un papel crucial en la definición de cómo se espera que funcione un sistema y las cualidades que este debe poseer, como usabilidad, mantenibilidad, escalabilidad y seguridad._**
 
-**_Ambos tipos de requisitos son esenciales para crear un sistema completo y exitoso. Veamos en qué se diferencia cada uno:_**
+**_Ambos tipos de requisitos son esenciales para crear un sistema completo y exitoso. Veamos con qué se diferencia cada uno:_**
 
 <img width="748" height="821" alt="image" src="https://github.com/user-attachments/assets/c2869d28-31c6-45a7-987b-4666343709d8" />
 
