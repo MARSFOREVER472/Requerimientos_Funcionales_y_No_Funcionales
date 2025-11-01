@@ -36,7 +36,7 @@
 
 **_Te dejamos una lista de los más comunes:_**
 
-- Rendimiento: establece las expectativas de velocidad y capacidad del sistema. Puede incluir aspectos como tiempos de respuesta, tiempos de carga, rendimiento bajo diferentes cargas de trabajo y escalabilidad.
+- **_Rendimiento: establece las expectativas de velocidad y capacidad del sistema. Puede incluir aspectos como tiempos de respuesta, tiempos de carga, rendimiento bajo diferentes cargas de trabajo y escalabilidad._**
 
 - Seguridad: define los mecanismos de seguridad necesarios para proteger el sistema y los datos contra amenazas y ataques. Puede incluir autenticación, autorización, encriptación y protección contra vulnerabilidades.
 
