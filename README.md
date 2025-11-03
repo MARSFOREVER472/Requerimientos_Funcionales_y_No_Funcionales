@@ -42,7 +42,7 @@
 
 - **_Usabilidad: describe cómo debe ser la experiencia del usuario al interactuar con el sistema. Puede incluir aspectos como la interfaz de usuario, la accesibilidad, la facilidad de uso y la satisfacción del usuario._**
 
-- Disponibilidad: establece cuánto tiempo el sistema debe estar disponible para los usuarios. Puede incluir objetivos de tiempo de actividad, tiempo de inactividad planificado y recuperación ante fallas.
+- **_Disponibilidad: establece cuánto tiempo el sistema debe estar disponible para los usuarios. Puede incluir objetivos de tiempo de actividad, tiempo de inactividad planificado y recuperación ante fallas._**
 
 - Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores.
 
