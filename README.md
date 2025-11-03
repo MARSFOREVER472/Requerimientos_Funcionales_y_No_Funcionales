@@ -46,7 +46,7 @@
 
 - **_Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores._**
 
-- Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad.
+- **_Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad._**
 
 - Portabilidad: define la capacidad del sistema para ser trasladado o adaptado a diferentes entornos y plataformas. Puede incluir la compatibilidad con diferentes sistemas operativos, navegadores o dispositivos.
 
