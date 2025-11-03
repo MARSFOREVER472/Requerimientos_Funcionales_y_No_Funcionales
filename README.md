@@ -52,4 +52,4 @@
 
 - Escalabilidad: describe cómo el sistema puede manejar un aumento en la carga de trabajo sin degradar su rendimiento. Puede incluir la escalabilidad vertical (mejorar los recursos de un solo equipo) o la escalabilidad horizontal (añadir más recursos o equipos para mantener el rendimiento).
 
-Ejemplos de requisitos no funcionales
+## Ejemplos de requisitos no funcionales
