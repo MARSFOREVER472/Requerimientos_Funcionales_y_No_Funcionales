@@ -44,7 +44,7 @@
 
 - **_Disponibilidad: establece cuánto tiempo el sistema debe estar disponible para los usuarios. Puede incluir objetivos de tiempo de actividad, tiempo de inactividad planificado y recuperación ante fallas._**
 
-- Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores.
+- **_Fiabilidad: describe la confiabilidad del sistema y su capacidad para funcionar correctamente durante un período de tiempo determinado. Puede incluir aspectos como la tolerancia a fallos y la recuperación ante errores._**
 
 - Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad.
 
