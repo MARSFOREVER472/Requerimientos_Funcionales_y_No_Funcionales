@@ -48,7 +48,7 @@
 
 - **_Mantenibilidad: indica cómo se debe mantener y mejorar el sistema con el tiempo. Puede incluir la facilidad de mantenimiento, la documentación y la capacidad de realizar cambios sin afectar la estabilidad._**
 
-- Portabilidad: define la capacidad del sistema para ser trasladado o adaptado a diferentes entornos y plataformas. Puede incluir la compatibilidad con diferentes sistemas operativos, navegadores o dispositivos.
+- **_Portabilidad: define la capacidad del sistema para ser trasladado o adaptado a diferentes entornos y plataformas. Puede incluir la compatibilidad con diferentes sistemas operativos, navegadores o dispositivos._**
 
 - Escalabilidad: describe cómo el sistema puede manejar un aumento en la carga de trabajo sin degradar su rendimiento. Puede incluir la escalabilidad vertical (mejorar los recursos de un solo equipo) o la escalabilidad horizontal (añadir más recursos o equipos para mantener el rendimiento).
 
