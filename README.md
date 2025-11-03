@@ -4,7 +4,7 @@
 
 ### **_Antes de comenzar:_**
 
-**_"Un requisito es una declaración que describe una característica, función y/o restricción que debe cumplir un sistema y/o software. Estos requisitos pueden ser de 2 tipos: funcionales, que describen lo que el sistema debe hacer (por ejemplo, registrar un usuario), y no funcionales, que describen cómo el sistema debe ser (por ejemplo, ser seguro o rápido)"._**
+**_"Un requisito es una declaración que describe una característica, función y/o restricción que debe cumplir un sistema y/o software. Estos requisitos pueden ser de 2 tipos: funcionales, que describen lo que el sistema debe hacer (por ejemplo, registrar un usuario cualquiera), y no funcionales, que describen cómo el sistema debe ser (por ejemplo, ser seguro o rápido)"._**
 
 ## **_Historia_**
 
