@@ -53,3 +53,69 @@
 - **_Escalabilidad: describe cómo el sistema puede manejar un aumento en la carga de trabajo sin degradar su rendimiento. Puede incluir la escalabilidad vertical (mejorar los recursos de un solo equipo) o la escalabilidad horizontal (añadir más recursos o equipos para mantener el rendimiento)._**
 
 ## **_Ejemplos de requisitos no funcionales_**
+
+Los requisitos no funcionales variarán según el contexto y los objetivos específicos de cada sistema, aquí algunos ejemplos por tipo de sistema:
+
+Sistema de comercio electrónico:
+
+Rendimiento: El sistema debe cargar páginas en un tiempo promedio de menos de 2 segundos.
+
+Escalabilidad: El sistema debe ser capaz de manejar un aumento del 50% en el tráfico durante la temporada de ventas sin degradar el rendimiento.
+
+Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible las 24 horas del día, los 7 días de la semana, con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado.
+
+Aplicación de banca en línea:
+
+Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTPS.
+
+Usabilidad: La interfaz debe ser accesible y usable por personas con discapacidades visuales.
+
+Mantenibilidad: El código fuente debe estar bien documentado y seguir las mejores prácticas de programación para facilitar futuras actualizaciones.
+
+Sistema de gestión de inventario:
+
+Eficiencia: Las consultas de búsqueda y filtrado de inventario deben completarse en menos de 1 segundo.
+
+Estabilidad: El sistema debe poder funcionar durante al menos 6 meses continuos sin requerir reinicios debido a fallos.
+
+Capacidad de recuperación: En caso de una caída del servidor, el sistema debe ser capaz de recuperar y restaurar los datos de inventario desde la última copia de seguridad.
+
+Red social:
+
+Interoperabilidad: El sistema debe ser capaz de autenticar usuarios a través de sus cuentas de Google, Facebook y Twitter.
+
+Privacidad: Los datos personales de los usuarios deben estar protegidos según las regulaciones de protección de datos y no se compartirán con terceros sin el consentimiento explícito del usuario.
+
+Localización y globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario.
+
+Beneficios de los requisitos no funcionales
+Los requisitos no funcionales aportan numerosas ventajas importantes en el desarrollo y despliegue de sistemas de software. Entre sus beneficios se encuentran:
+
+Mejora de la calidad del sistema. Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad.
+
+Experiencia del usuario mejorada. Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente querrá usarlo. 
+
+Optimización del rendimiento. Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
+
+Mayor seguridad. Ayudan a poner "candados" en el programa para que personas ajenas no puedan entrar o robar información.
+
+Cumplimiento normativo. Se aseguran de que el programa siga las reglas. Así, no hay problemas legales.
+
+Facilitación de mantenibilidad. Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
+
+Adaptación a diferentes escenarios. Hacen que el programa se adapte a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
+
+Planificación y gestión efectiva. Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad.
+
+Competitividad y reputación. Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
+
+Prevención de problemas futuros. Al tener estos requisitos desde el principio, se evitan problemas que podrían ocurrir más tarde.
+
+Requisitos no funcionales, parte importante en el desarrollo de software
+Los requisitos no funcionales son una parte crucial de un proyecto de desarrollo de software, debido a que influyen en la fiabilidad, seguridad, rendimiento, escalabilidad, adaptabilidad y estabilidad. Estos componentes son fundamentales para el éxito del sistema, ya que influyen directamente en la calidad y la usabilidad del producto final.
+
+Incluso, los cambios en los requisitos no funcionales pueden tener repercusiones importantes en el proyecto, por lo que se deben establecer y controlar con cuidado. Un buen diseño e implementación de los requisitos no funcionales es vital para garantizar el éxito y satisfacer las necesidades y expectativas de los usuarios finales.
+
+Recuerda que pueden afectar directamente la experiencia del usuario, además de influir en los recursos necesarios para desarrollar, implementar y mantener el software. Es por ello, que te recomendamos considerarlos desde el inicio de tu proyecto, así harás una planificación más realista y precisa de este.
+
+En resumen, la inclusión de los requisitos no funcionales en el proceso de desarrollo, garantiza un enfoque integral en la creación de sistemas exitosos.  Ignorar estos requisitos puede llevar a problemas graves en el funcionamiento del software una vez implementado, lo que puede ser costoso y difícil de resolver en etapas posteriores de tu proyecto. ¿Y tú, ya los implementas?
