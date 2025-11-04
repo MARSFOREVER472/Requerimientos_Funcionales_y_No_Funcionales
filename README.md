@@ -54,7 +54,7 @@
 
 ## **_Ejemplos de requisitos no funcionales_**
 
-Los requisitos no funcionales variarán según el contexto y los objetivos específicos de cada sistema, aquí algunos ejemplos por tipo de sistema:
+**_Los requisitos no funcionales variarán según el contexto y los objetivos específicos de cada sistema, aquí algunos ejemplos por tipo de sistema:_**
 
 Sistema de comercio electrónico:
 
