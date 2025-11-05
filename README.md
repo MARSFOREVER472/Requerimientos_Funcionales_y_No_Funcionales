@@ -66,11 +66,11 @@
 
 - **_Aplicación de banca en línea:_**
 
-Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTPS.
+**_Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTPS._**
 
-Usabilidad: La interfaz debe ser accesible y usable por personas con discapacidades visuales.
+**_Usabilidad: La interfaz debe ser accesible y usable por personas con discapacidades visuales._**
 
-Mantenibilidad: El código fuente debe estar bien documentado y seguir las mejores prácticas de programación para facilitar futuras actualizaciones.
+**_Mantenibilidad: El código fuente debe estar bien documentado y seguir las mejores prácticas de programación para facilitar futuras actualizaciones._**
 
 - **_Sistema de gestión de inventario:_**
 
