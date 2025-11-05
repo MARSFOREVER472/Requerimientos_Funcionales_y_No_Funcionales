@@ -62,7 +62,7 @@
 
 **_Escalabilidad: El sistema debe ser capaz de manejar un aumento del 50% en el tráfico durante la temporada de ventas sin degradar el rendimiento._**
 
-**_Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible las 24 horas del día, los 7 días de la semana, con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado._**
+**_Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible 24/7(las 24 horas del día, los 7 días de la semana), con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado._**
 
 - **_Aplicación de banca en línea:_**
 
