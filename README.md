@@ -56,7 +56,7 @@
 
 **_Los requisitos no funcionales variarán según el contexto y los objetivos específicos de cada sistema, aquí algunos ejemplos por tipo de sistema:_**
 
-Sistema de comercio electrónico:
+- Sistema de comercio electrónico:
 
 Rendimiento: El sistema debe cargar páginas en un tiempo promedio de menos de 2 segundos.
 
