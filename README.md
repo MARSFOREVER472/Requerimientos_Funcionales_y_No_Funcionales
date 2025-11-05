@@ -88,7 +88,8 @@ Capacidad de recuperación: En caso de una caída del servidor, el sistema debe 
 
 **_Localización y globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario._**
 
-Beneficios de los requisitos no funcionales
+## Beneficios de los requisitos no funcionales
+
 Los requisitos no funcionales aportan numerosas ventajas importantes en el desarrollo y despliegue de sistemas de software. Entre sus beneficios se encuentran:
 
 Mejora de la calidad del sistema. Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad.
