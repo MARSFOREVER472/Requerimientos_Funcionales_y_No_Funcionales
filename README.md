@@ -82,11 +82,11 @@ Capacidad de recuperación: En caso de una caída del servidor, el sistema debe 
 
 - **_Red social:_**
 
-Interoperabilidad: El sistema debe ser capaz de autenticar usuarios a través de sus cuentas de Google, Facebook y Twitter.
+**_Interoperabilidad: El sistema debe ser capaz de autenticar usuarios a través de sus cuentas de Google, Facebook y Twitter._**
 
-Privacidad: Los datos personales de los usuarios deben estar protegidos según las regulaciones de protección de datos y no se compartirán con terceros sin el consentimiento explícito del usuario.
+**_Privacidad: Los datos personales de los usuarios deben estar protegidos según las regulaciones de protección de datos y no se compartirán con terceros sin el consentimiento explícito del usuario._**
 
-Localización y globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario.
+**_Localización y globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario._**
 
 Beneficios de los requisitos no funcionales
 Los requisitos no funcionales aportan numerosas ventajas importantes en el desarrollo y despliegue de sistemas de software. Entre sus beneficios se encuentran:
