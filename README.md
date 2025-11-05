@@ -56,7 +56,7 @@
 
 **_Los requisitos no funcionales variarán según el contexto y los objetivos específicos de cada sistema, aquí algunos ejemplos por tipo de sistema:_**
 
-- Sistema de comercio electrónico:
+- **_Sistema de comercio electrónico:_**
 
 Rendimiento: El sistema debe cargar páginas en un tiempo promedio de menos de 2 segundos.
 
@@ -64,7 +64,7 @@ Escalabilidad: El sistema debe ser capaz de manejar un aumento del 50% en el tr�
 
 Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible las 24 horas del día, los 7 días de la semana, con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado.
 
-- Aplicación de banca en línea:
+- **_Aplicación de banca en línea:_**
 
 Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTPS.
 
@@ -72,7 +72,7 @@ Usabilidad: La interfaz debe ser accesible y usable por personas con discapacida
 
 Mantenibilidad: El código fuente debe estar bien documentado y seguir las mejores prácticas de programación para facilitar futuras actualizaciones.
 
-- Sistema de gestión de inventario:
+- **_Sistema de gestión de inventario:_**
 
 Eficiencia: Las consultas de búsqueda y filtrado de inventario deben completarse en menos de 1 segundo.
 
@@ -80,7 +80,7 @@ Estabilidad: El sistema debe poder funcionar durante al menos 6 meses continuos 
 
 Capacidad de recuperación: En caso de una caída del servidor, el sistema debe ser capaz de recuperar y restaurar los datos de inventario desde la última copia de seguridad.
 
-- Red social:
+- **_Red social:_**
 
 Interoperabilidad: El sistema debe ser capaz de autenticar usuarios a través de sus cuentas de Google, Facebook y Twitter.
 
