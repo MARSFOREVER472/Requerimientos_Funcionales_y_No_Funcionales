@@ -74,11 +74,11 @@
 
 - **_Sistema de gestión de inventario:_**
 
-Eficiencia: Las consultas de búsqueda y filtrado de inventario deben completarse en menos de 1 segundo.
+**_Eficiencia: Las consultas de búsqueda y filtrado de inventario deben completarse en menos de 1 segundo._**
 
-Estabilidad: El sistema debe poder funcionar durante al menos 6 meses continuos sin requerir reinicios debido a fallos.
+**_Estabilidad: El sistema debe poder funcionar durante al menos 6 meses continuos sin requerir reinicios debido a fallos._**
 
-Capacidad de recuperación: En caso de una caída del servidor, el sistema debe ser capaz de recuperar y restaurar los datos de inventario desde la última copia de seguridad.
+**_Capacidad de recuperación: En caso de una caída del servidor, el sistema debe ser capaz de recuperar y restaurar los datos de inventario desde la última copia de seguridad._**
 
 - **_Red social:_**
 
