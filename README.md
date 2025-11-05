@@ -58,11 +58,11 @@
 
 - **_Sistema de comercio electrónico:_**
 
-Rendimiento: El sistema debe cargar páginas en un tiempo promedio de menos de 2 segundos.
+**_Rendimiento: El sistema debe cargar páginas en un tiempo promedio de menos de 2 segundos._**
 
-Escalabilidad: El sistema debe ser capaz de manejar un aumento del 50% en el tráfico durante la temporada de ventas sin degradar el rendimiento.
+**_Escalabilidad: El sistema debe ser capaz de manejar un aumento del 50% en el tráfico durante la temporada de ventas sin degradar el rendimiento._**
 
-Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible las 24 horas del día, los 7 días de la semana, con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado.
+**_Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible las 24 horas del día, los 7 días de la semana, con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado._**
 
 - **_Aplicación de banca en línea:_**
 
