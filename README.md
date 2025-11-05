@@ -112,7 +112,7 @@ Competitividad y reputación. Contribuye a que los productos y servicios de alta
 
 Prevención de problemas futuros. Al tener estos requisitos desde el principio, se evitan problemas que podrían ocurrir más tarde.
 
-## Requisitos no funcionales, parte importante en el desarrollo de software
+## **_Requisitos no funcionales, parte importante en el desarrollo de software_**
 
 Los requisitos no funcionales son una parte crucial de un proyecto de desarrollo de software, debido a que influyen en la fiabilidad, seguridad, rendimiento, escalabilidad, adaptabilidad y estabilidad. Estos componentes son fundamentales para el éxito del sistema, ya que influyen directamente en la calidad y la usabilidad del producto final.
 
