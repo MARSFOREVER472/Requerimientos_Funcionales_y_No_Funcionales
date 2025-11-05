@@ -66,7 +66,7 @@
 
 - **_Aplicación de banca en línea:_**
 
-**_Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTPS._**
+**_Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTP'S._**
 
 **_Usabilidad: La interfaz debe ser accesible y usable por personas con discapacidades visuales._**
 
