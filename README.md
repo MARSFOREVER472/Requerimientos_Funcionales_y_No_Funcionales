@@ -120,4 +120,4 @@
 
 **_Recuerda que pueden afectar directamente la experiencia del usuario, además de influir en los recursos necesarios para desarrollar, implementar y mantener el software. Es por ello, que te recomendamos considerarlos desde el inicio de tu proyecto, así harás una planificación más realista y precisa de éste._**
 
-**_En resumen, la inclusión de los requisitos no funcionales en el proceso de desarrollo, garantiza un enfoque integral en la creación de sistemas exitosos.  Ignorar estos requisitos puede llevar a problemas graves en el funcionamiento del software una vez implementado, lo que puede ser costoso y difícil de resolver en etapas posteriores de tu proyecto. ¿Y tú, ya los implementas?_**
+**_En resumen, la inclusión de los requisitos no funcionales en el proceso de desarrollo, garantiza un enfoque integral en la creación de sistemas exitosos.  Ignorar estos requisitos puede llevar a problemas graves en el funcionamiento del software una vez implementado, lo que puede ser costoso y difícil de resolver en etapas posteriores de tu proyecto._**
