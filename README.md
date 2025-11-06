@@ -110,7 +110,7 @@
 
 - Competitividad y reputación: Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
 
-- Prevención de problemas futuros: Al tener estos requisitos desde el principio, se evitan problemas que podrían ocurrir más tarde.
+- Prevención de problemas futuros: Al tener estos requisitos desde el principio, se deben evitar problemas que podrían ocurrir más tarde.
 
 ## **_Requisitos no funcionales, parte importante en el Desarrollo de Software_**
 
