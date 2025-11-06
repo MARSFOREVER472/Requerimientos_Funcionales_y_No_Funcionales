@@ -104,7 +104,7 @@
 
 - Facilitación de mantenibilidad: Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
 
-- Adaptación a diferentes escenarios: Hacen que el programa se adapte a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
+- Adaptación a diferentes escenarios: Hacen que el programa se pueda adaptar a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
 
 - Planificación y gestión efectiva: Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad.
 
