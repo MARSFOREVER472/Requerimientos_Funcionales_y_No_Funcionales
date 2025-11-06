@@ -114,7 +114,7 @@
 
 ## **_Requisitos no funcionales, parte importante en el Desarrollo de Software_**
 
-Los requisitos no funcionales son una parte crucial de un proyecto de desarrollo de software, debido a que influyen en la fiabilidad, seguridad, rendimiento, escalabilidad, adaptabilidad y estabilidad. Estos componentes son fundamentales para el éxito del sistema, ya que influyen directamente en la calidad y la usabilidad del producto final.
+**_Los requisitos no funcionales son una parte crucial de un proyecto de desarrollo de software, debido a que influyen en la fiabilidad, seguridad, rendimiento, escalabilidad, adaptabilidad y estabilidad. Estos componentes son fundamentales para el éxito del sistema, ya que influyen directamente en la calidad y la usabilidad del producto final._**
 
 Incluso, los cambios en los requisitos no funcionales pueden tener repercusiones importantes en el proyecto, por lo que se deben establecer y controlar con cuidado. Un buen diseño e implementación de los requisitos no funcionales es vital para garantizar el éxito y satisfacer las necesidades y expectativas de los usuarios finales.
 
