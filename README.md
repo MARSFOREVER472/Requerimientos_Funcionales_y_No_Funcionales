@@ -92,25 +92,25 @@
 
 **_Los requisitos no funcionales aportan numerosas ventajas importantes en el desarrollo y despliegue de sistemas de software. Entre sus beneficios se encuentran:_**
 
-- Mejora de la calidad del sistema. Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad.
+- Mejora de la calidad del sistema: Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad.
 
-- Experiencia del usuario mejorada. Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente querrá usarlo. 
+- Experiencia del usuario mejorada: Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente querrá usarlo. 
 
-- Optimización del rendimiento. Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
+- Optimización del rendimiento: Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
 
-- Mayor seguridad. Ayudan a poner "candados" en el programa para que personas ajenas no puedan entrar o robar información.
+- Mayor seguridad: Ayudan a poner "candados" en el programa para que personas ajenas no puedan entrar o robar información.
 
-- Cumplimiento normativo. Se aseguran de que el programa siga las reglas. Así, no hay problemas legales.
+- Cumplimiento normativo: Se aseguran de que el programa siga las reglas. Así, no hay problemas legales.
 
-- Facilitación de mantenibilidad. Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
+- Facilitación de mantenibilidad: Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
 
-- Adaptación a diferentes escenarios. Hacen que el programa se adapte a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
+- Adaptación a diferentes escenarios: Hacen que el programa se adapte a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
 
-- Planificación y gestión efectiva. Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad.
+- Planificación y gestión efectiva: Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad.
 
-- Competitividad y reputación. Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
+- Competitividad y reputación: Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
 
-- Prevención de problemas futuros. Al tener estos requisitos desde el principio, se evitan problemas que podrían ocurrir más tarde.
+- Prevención de problemas futuros: Al tener estos requisitos desde el principio, se evitan problemas que podrían ocurrir más tarde.
 
 ## **_Requisitos no funcionales, parte importante en el Desarrollo de Software_**
 
