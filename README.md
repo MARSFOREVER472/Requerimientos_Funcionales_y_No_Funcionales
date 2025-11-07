@@ -64,7 +64,7 @@
 
 **_Disponibilidad: La tasa de disponibilidad objetivo debe ser del 99.9%, por lo que el sistema debe estar disponible 24/7 (24 horas del día, los 7 días de la semana), con un tiempo de inactividad máximo de 1 hora al mes para mantenimiento programado._**
 
-- **_Aplicación de banca en línea:_**
+- **_Aplicación de Banca en línea:_**
 
 **_Seguridad: La comunicación entre el cliente y el servidor debe estar encriptada mediante el protocolo HTTP'S._**
 
