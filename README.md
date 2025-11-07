@@ -98,7 +98,7 @@
 
 - Optimización del rendimiento: Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
 
-- Mayor seguridad: Ayudan a poner "candados" en el programa para que personas ajenas no puedan entrar o robar información.
+- Mayor seguridad: Ayudan a poner varios "candados" en el programa para que personas ajenas no puedan entrar o robar información.
 
 - Cumplimiento normativo: Se aseguran de que el programa siga las reglas. Así, no hay problemas legales.
 
