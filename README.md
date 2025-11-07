@@ -92,7 +92,7 @@
 
 **_Los requisitos no funcionales aportan numerosas ventajas importantes en el desarrollo y despliegue de sistemas de software. Entre sus beneficios se encuentran:_**
 
-- Mejora de la calidad del sistema: Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad.
+- **_Mejora de la calidad del sistema: Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad._**
 
 - Experiencia del usuario mejorada: Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente lo querrá usarlo. 
 
