@@ -94,7 +94,7 @@
 
 - **_Mejora de la calidad del sistema: Se enfocan en cosas importantes como cuán rápido trabaja el programa, cuán seguro es y cuán fácil es de usar. Al tener estas reglas, te aseguras de que el programa sea de buena calidad._**
 
-- Experiencia del usuario: Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente lo querrá usarlo. 
+- Experiencia mejorada del usuario: Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente lo querrá usarlo. 
 
 - Optimización del rendimiento: Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
 
