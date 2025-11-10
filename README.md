@@ -96,7 +96,7 @@
 
 - **_Experiencia mejorada para el usuario: Se preocupan por cómo las personas usan el programa. Si un programa es fácil de entender y usar, la gente lo querrá usarlo._**
 
-- Optimización del rendimiento: Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo.
+- **_Optimización del rendimiento: Aseguran que el programa no se vuelva lento o se trabe, incluso si muchas personas están usándolo al mismo tiempo._**
 
 - Mayor seguridad: Ayudan a poner varios candados en el programa para que personas ajenas no puedan entrar o robar información.
 
