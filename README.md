@@ -100,7 +100,7 @@
 
 - **_Mayor seguridad: Ayudan a poner varios candados en el programa para que personas ajenas no puedan entrar o robar información._**
 
-- Cumplimiento normativo: Se aseguran de que el programa siga las reglas. Así, no hay problemas legales.
+- **_Cumplimiento normativo: Se aseguran de que el programa siga las reglas. Así, no hay problemas legales._**
 
 - Facilitación de mantenibilidad: Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
 
