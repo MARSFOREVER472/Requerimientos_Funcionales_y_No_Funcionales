@@ -102,7 +102,7 @@
 
 - **_Cumplimiento normativo: Se aseguran de que el programa siga las reglas. Así, no hay problemas legales._**
 
-- Facilitación de mantenibilidad: Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas.
+- **_Facilitación de mantenibilidad: Hacen que sea más fácil arreglar y mejorar el programa sin causar problemas._**
 
 - Adaptación a diferentes escenarios: Hacen que el programa se pueda adaptar a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible.
 
