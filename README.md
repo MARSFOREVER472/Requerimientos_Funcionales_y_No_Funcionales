@@ -80,7 +80,7 @@
 
 **_Capacidad de recuperación: En caso de una caída del servidor, el sistema debe ser capaz de recuperar y restaurar los datos de inventario desde la última copia de seguridad._**
 
-- **_Red social:_**
+- **_Redes sociales:_**
 
 **_Interoperabilidad: El sistema debe ser capaz de autenticar usuarios a través de sus cuentas de Google, Facebook y Twitter._**
 
