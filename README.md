@@ -106,7 +106,7 @@
 
 - **_Adaptación a diferentes escenarios: Hacen que el programa se pueda adaptar a diferentes situaciones. Si lo quieres en otro idioma o en un teléfono en lugar de una computadora, los requisitos hacen que sea posible._**
 
-- Planificación y gestión efectiva: Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad.
+- **_Planificación y gestión efectiva: Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad._**
 
 - Competitividad y reputación: Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
 
