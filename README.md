@@ -14,7 +14,7 @@
 
 **_Los requisitos no funcionales han contribuido al crecimiento de las empresas al crear una base sólida en soluciones tecnológicas exitosas. Al cumplir con estos requisitos, tu empresa puede obtener una ventaja competitiva, mejorar la satisfacción del cliente y construir una base sólida para el crecimiento y el éxito a largo plazo._**
 
-## **_¿Qué son los requisitos no funcionales?_**
+## **_¿Qué son los Requisitos No Funcionales?_**
 
 **_Los requisitos no funcionales, también conocidos como "requisitos de calidad" o "requisitos de atributos del sistema", son características y criterios que describen cómo debe ser el rendimiento, la seguridad, la usabilidad y otros aspectos de un sistema o software más allá de su funcionalidad básica._**
 
