@@ -108,7 +108,7 @@
 
 - **_Planificación y gestión efectiva: Ayudan a los equipos a planificar y gestionar los recursos adecuadamente para cumplir con los objetivos de calidad, rendimiento y seguridad._**
 
-- Competitividad y reputación: Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes.
+- **_Competitividad y reputación: Contribuye a que los productos y servicios de alta calidad cumplan con las expectativas del mercado y los clientes._**
 
 - Prevención de problemas futuros: Al tener estos requisitos desde el principio, se deben evitar problemas que podrían ocurrir más tarde.
 
