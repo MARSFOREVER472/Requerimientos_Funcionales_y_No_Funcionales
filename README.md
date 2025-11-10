@@ -86,7 +86,7 @@
 
 **_Privacidad: Los datos personales de los usuarios deben estar protegidos según las regulaciones de protección de datos y no se compartirán con terceros sin el consentimiento explícito del usuario._**
 
-**_Localización y globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario._**
+**_Localización y Globalización: La interfaz de usuario debe ser localizable para diferentes idiomas y culturas, y mostrará contenido relevante según la ubicación del usuario._**
 
 ## **_Beneficios de los requisitos no funcionales_**
 
